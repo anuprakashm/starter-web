@@ -16,3 +16,5 @@ Sample Demo change
 Sample Demo change
 
 modified again
+
+For base clone, not pull done
